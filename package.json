@@ -1,0 +1,26 @@
+{
+  "name": "misa335",
+  "version": "1.0.0",
+  "description": "misa335's business card",
+  "main": "index.js",
+  "bin": {
+    "misa335": "./bin/card.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misa335/business-card.git"
+  },
+  "keywords": [
+    "npx",
+    "misa335"
+  ],
+  "author": "Misa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/misa335/business-card/issues"
+  },
+  "homepage": "https://github.com/misa335/business-card#readme"
+}
