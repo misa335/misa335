@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - ⚡️ Fun fact: Love travel✈️, dance💃, and cats🐈🐾💗
 
 You can run the following command to find more details and contact information.
+
 `npx misa335`
