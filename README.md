@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 You can run the following command to find more details and contact information.
 
 `npx misa335`
+
+⇨ ぜひQiitaの記事もご覧ください📄
+[npxを使ったBusiness Cardの作り方](https://qiita.com/__misakd/items/1731194468fee98598ce)
