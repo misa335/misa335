@@ -28,4 +28,4 @@ You can run the following command to find more details and contact information.
  👉 [npxを使ったBusiness Cardの作り方](https://qiita.com/__misakd/items/1731194468fee98598ce)
 
 [![Misa's GitHub stats](https://github-readme-stats.vercel.app/api?username=misa335&hide=stars&show_icons=true&count_private=true&custom_title=Misa's%20GitHub%20Stats&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misa335&&hide=shell&langs_count=15&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misa335&&hide=[shell,Blade]&langs_count=15&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
