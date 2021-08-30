@@ -30,9 +30,9 @@ You can run the following command to find more details and contact information.
 [![Misa's GitHub stats](https://github-readme-stats.vercel.app/api?username=misa335&count_private=true&hide=stars&show_icons=true&custom_title=Misa's%20GitHub%20Stats&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misa335&count_private=true&hide=shell,Blade&langs_count=15&theme=omni&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+![Stats](https://github.com/misa335/misa335/blob/master/profile-summary-card-output/dracula/3-stats.svg)
 ![Top Languages by Repo](https://github.com/misa335/misa335/blob/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
 ![Top languages by Comnmit](https://github.com/misa335/misa335/blob/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
-![Stats](https://github.com/misa335/misa335/blob/master/profile-summary-card-output/dracula/3-stats.svg)
 
 <h3>Things I code with</h3>
 <p align="left">
